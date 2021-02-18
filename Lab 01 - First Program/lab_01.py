@@ -1,12 +1,3 @@
 
-
-#Imprime en pantalla Hello world
-print("Hello world!")
-
-#imprime en pantalla varias frases
-print('It was a dark stormy night.')
-print('suddenly a shot rang out!')
-
-#uso escape code para double quote
-print("Hi! This is a double quote mark: \"we use it for printing.")
-print("This\nis\nmy\nsample.")
+print("Hello, i am very tired and i only want to sleep.\nLuckily tomorrow is friday")
+print("I think i am starting to understand how this works. I am about to finish\nYey!")
